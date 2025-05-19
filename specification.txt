@@ -1,0 +1,24 @@
+HTML Tags:
+<html>
+<h>
+<link>
+<script>
+<nav>
+<ul>
+<li>
+<a>
+<div>
+<img>
+<style>
+<nav>
+
+CSS:
+background-color
+text-align
+width
+height
+margin
+
+Java Script: I used it to alert the screen when clicking on the details and home page. I also implemented a button to toggle from dark to light mode and reverse.
+
+Bootstrap: I used it to make the nav bar on the top of the screen and add a google form on the sign ups page. 
